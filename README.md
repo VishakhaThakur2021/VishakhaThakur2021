@@ -1,12 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vishakha Thakur</h1>
-<h3 align="center">A passionate QA Engineer from Helsinki,Finland</h3>
+<h3 align="center">A passionate QA Engineer from Helsinki,Finland "In my previous role, I led QA efforts with expertise in Cypress.io, Selenium Java, and Robot Framework. Proficient in CI/CD tools, I streamlined processes with Jenkins and GitLab, ensuring rigorous end-to-end automation and robust test coverage for web applications. My commitment to quality drives successful software development."</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhathakur2021&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhathakur2021" /> </p>
 
-- 🔭 I’m currently working on [Automating scripts using different frameworks](https://github.com/VishakhaThakur2021)
+- 🔭A versatile, high-energy QA Automation Engineer with 4+ years of
+experience in analysis, design, development and testing of web based
+application with never give up mindset on quality of software. Skilled in
+automating end-to-end web application using different frameworks and
+delivering high quality product to the clients.(https://github.com/VishakhaThakur2021)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 Tech skills >>Cypress.io
+(TypeScript,JavaScript,Playwright,Jest)
+Selenium
+(Java,Groovy,TestNG,Cucumber,Maven)
+RobotFramework
+(Python,Pycharm,Pytest)
+CI/CD (Jenkins,Gitlab,Docker,Argo CD)
+API testing (REST ,Postman,Swagger)
+Repository (BigBucket,Github)
+JIRA,Confluence,Testrail
+Data Visualization (Grafana)
 
 - 👨‍💻 All of my projects are available at [https://github.com/VishakhaThakur2021](https://github.com/VishakhaThakur2021)
 
