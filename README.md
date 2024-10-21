@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishakhathakur2021&label=Profile%20views&color=0e75b6&style=flat" alt="vishakhathakur2021" /> </p>
 
-- 🔭A versatile, high-energy QA Automation Engineer with 4+ years of
+- 🔭A versatile, high-energy QA Automation Engineer with 3+ years of
 experience in analysis, design, development and testing of web based
 application with never give up mindset on quality of software. Skilled in
 automating end-to-end web application using different frameworks and
